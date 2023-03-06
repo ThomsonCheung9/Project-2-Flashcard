@@ -1,0 +1,14 @@
+body {
+  justify-content: center;
+  align-items: center;  
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: .25rem;
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+  height: 150px;
+  width: 800px;
+}
